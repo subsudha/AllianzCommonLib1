@@ -8,11 +8,11 @@
     </parent>
     <groupId>com.allianz</groupId>
     <artifactId>common</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.2</version>
     <packaging>package</packaging>
     <scm>
         <developerConnection>${scmDeveloperConnection}</developerConnection>
-      <tag>HEAD</tag>
+      <tag>v1.0.2</tag>
   </scm>
     <properties>
         <generated.from>package-actions-archetype</generated.from>
